@@ -1,0 +1,5 @@
+## FLEXPKG Format Version 1 By VPeti
+
+pkg = wget python
+get = https://github.com/VPeti1/PyComp/raw/master/wizard.exe
+cmd = wizard.exe
